@@ -18,6 +18,8 @@ export default () => {
         { label: 'Option 5', value: '5' },
       ]}
       selectedAriaLabel="Selected"
+      data-testid="my-select"
+      ariaLabel="Select an option"
     />
   )
 }
