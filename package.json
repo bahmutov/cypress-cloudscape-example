@@ -1,5 +1,6 @@
 {
   "name": "cypress-cloudscape-example",
+  "description": "Testing Cloudscape design Select component using Cypress.io test runner",
   "private": true,
   "version": "0.0.0",
   "type": "module",
